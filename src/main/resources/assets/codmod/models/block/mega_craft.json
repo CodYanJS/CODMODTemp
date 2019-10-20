@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "codmod:blocks/mega_craft",
+    "down": "codmod:blocks/mega_craft",
+    "north": "codmod:blocks/mega_craft",
+    "east": "codmod:blocks/mega_craft",
+    "south": "codmod:blocks/mega_craft",
+    "west": "codmod:blocks/mega_craft",
+    "up": "codmod:blocks/mega_craft_top"
+  }
+}

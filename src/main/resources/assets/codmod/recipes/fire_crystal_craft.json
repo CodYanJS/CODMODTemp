@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    " X ",
+    "FFF"
+  ],
+  "key": {
+    "C": {
+      "item": "codmod:ruby_ingot"
+    },
+    "X": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "F": {
+      "item": "codmod:ruby"
+    }
+  },
+  "result": {
+    "item": "codmod:fire_crystal"
+  }
+}

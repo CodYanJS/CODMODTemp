@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XCX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "codmod:ruby_ingot"
+    },
+    "C": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "codmod:ruby_block"
+  }
+}
